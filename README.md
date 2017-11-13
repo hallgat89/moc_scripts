@@ -5,11 +5,11 @@ Usage:
 
 notification on song change:
 
-OnSongChange = "<YOURHOME>/.moc/onsongchange.sh"
+OnSongChange = "YOURHOME/.moc/onsongchange.sh"
 
 Save songs to txt (with F1 key):
 
-ExecCommand1 = "<YOURHOME>/.moc/favsong.sh"
+ExecCommand1 = "YOURHOME/.moc/favsong.sh"
 
 Delete a file (with F8 key):
 
